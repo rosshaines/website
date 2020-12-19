@@ -1,0 +1,29 @@
+baseurl = "http://www.rosshaines.co.uk/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Dr Ross Haines"
+theme = "hallo-hugo"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+googleAnalytics = "UA-106557901-1"
+
+[Author]
+    name = "Ross"
+
+[params]
+
+    [[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://linkedin.com/in/rossahaines"
+
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/rosshaines"
+        
+    [params.colors]
+        background = "#002147"
+        foreground = "#edf7ff"
+        hover = "#ffba82"
+      
