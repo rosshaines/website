@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr Ross Haines</title>
-    <link>/</link>
+    <link>http://www.rosshaines.co.uk/</link>
     <description>Recent content on Dr Ross Haines</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://www.rosshaines.co.uk/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
